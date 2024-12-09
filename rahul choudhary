@@ -1,0 +1,31 @@
+{   
+    "code": "00000",
+    "data": [
+        {
+         "base currency": ["BTC","ETH","SOL","XRP"],
+         "buy price limit ratio": "0.01",
+         "rate of increase in handling fee": "0.005",
+         "Maker fee  rate": "0.0002",
+         "minimum number of opening (base currency)": "0.001",
+         "percentage of increase in opening cost": "0.01",
+         "price step the price would only accept numbers like 10.0,10.5,and reject number like 10.2": "5",
+         "price scale precision": "1",
+         "quote currency": "USDT",
+         "sell price limit ratio": "0,01",
+         "quantity multipliers the order size must be greater than minimum trade number ": "0.001",
+         "support margin currency": [     "USDT"     ],
+         "symbol": "BTCUSDT_UMCBL",
+         "taker fee rate": "0.0006",
+         "number of decimal places": "3",
+         "future type perpetual  contract delivery  contract": "delivery",
+         "symbol status": "normal",
+         "delist time": "-1"
+        }
+    ],
+
+    "message": "success",
+    "request time": 1627114525850
+}
+
+
+
